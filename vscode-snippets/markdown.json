@@ -1,0 +1,7 @@
+{
+  "Inline Math": {
+    "prefix": ["`", "math"],
+    "body": ["`:::math $0`"],
+    "description": "Markdown inline math, pymdownx style."
+  }
+}
